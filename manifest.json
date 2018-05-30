@@ -58,5 +58,9 @@
     "src": "https://cdn.rawgit.com/joebloggss/webp/8735f5d7/144x144.webp",
     "sizes": "144x144",
     "type": "image/webp"    
+  }, {
+    "src": "https://cdn.rawgit.com/joebloggss/webp/15feacbf/512x512.webp",
+    "sizes": "512x512",
+    "type": "image/webp"    
   }]
 }
